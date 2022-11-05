@@ -21,7 +21,7 @@
 Cat🐈‍🐈‍⬛, Book📓, Swim🤿, Drink🍺, Movie📽️, Coffee☕, Twinkle💎</i><br/><br/>
 
 <h2>Contact📨</h2>
-<img src="https://img.shields.io/badge/ryudv@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ryu_dv@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/gksmfdkenl@gmail.com-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/instagram.com/ryu.skky-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br/><br/><br/><br/>
 
